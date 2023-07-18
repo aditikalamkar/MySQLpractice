@@ -1,1 +1,2 @@
-create database myDb;
+create database myDb
+drop database myDB
